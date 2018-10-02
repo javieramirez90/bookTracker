@@ -2,6 +2,7 @@ import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 
 import { AppComponent } from './app.component';
+import { AppRoutingModule } from './app-routing.module';
 import { AddBookComponent } from './add-book/add-book.component';
 import { AddReaderComponent } from './add-reader/add-reader.component';
 import { DashboardComponent } from './dashboard/dashboard.component';
